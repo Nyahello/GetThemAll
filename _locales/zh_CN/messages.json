@@ -1,0 +1,134 @@
+{
+   "appDesc": {
+      "message": "下载视频、PDF 文件、HTML 文件、图片。使用内置过滤器分析网页。"
+   },
+   "appName": {
+      "message": "Video Downloader GetThemAll"
+   },
+   "button_download": {
+      "message": "下载"
+   },
+   "options_about": {
+      "message": "关于"
+   },
+   "options_apply_changes": {
+      "message": "应用更改"
+   },
+   "options_close": {
+      "message": "关闭"
+   },
+   "options_facebook": {
+      "message": "显示 facebook.com 下载按钮"
+   },
+   "options_filename": {
+      "message": "下载原始文件名"
+   },
+   "options_general": {
+      "message": "选项"
+   },
+   "options_save": {
+      "message": "启用保存链接功能"
+   },
+   "options_scale": {
+      "message": "扩展界面缩放"
+   },
+   "options_title": {
+      "message": "Get them all settings"
+   },
+   "options_vk": {
+      "message": "显示 vk.com 下载按钮"
+   },
+   "popup_clear_all": {
+      "message": "全部清除"
+   },
+   "popup_download": {
+      "message": "下载"
+   },
+   "popup_download_warning_1": {
+      "message": "重要，请阅读！"
+   },
+   "popup_download_warning_2": {
+      "message": "当下载多个文件时，可能会弹出多个“另存为”对话框。"
+   },
+   "popup_download_warning_3": {
+      "message": "1. 始终点击“允许”按钮。否则，您将无法再次从当前网站下载多个文件！"
+   },
+   "popup_download_warning_4": {
+      "message": "2. 观看简短视频，了解如何解决多个对话框弹出的问题。"
+   },
+   "popup_download_warning_5": {
+      "message": "我知道了！不再显示此消息！"
+   },
+   "popup_download_zip": {
+      "message": "下载为 ZIP 文件"
+   },
+   "popup_downloader_desc": {
+      "message": "描述"
+   },
+   "popup_downloader_size": {
+      "message": "大小"
+   },
+   "popup_downloader_url": {
+      "message": "网址"
+   },
+   "popup_filter_mask": {
+      "message": "掩码:"
+   },
+   "popup_noyoutube_message_1": {
+      "message": "由于YouTube政策，禁止从YouTube下载内容。"
+   },
+   "popup_noyoutube_message_2": {
+      "message": "请不要发布负面评价。这不是我们的错。"
+   },
+   "popup_noyoutube_message_3": {
+      "message": "希望您能理解，谢谢！"
+   },
+   "popup_rate_button": {
+      "message": "给我们评分！"
+   },
+   "popup_rate_text": {
+      "message": "如果您喜欢我们，请给我们的产品评分。"
+   },
+   "popup_reload_message": {
+      "message": "在从此页面下载之前，您需要刷新该页面。"
+   },
+   "popup_save_link": {
+      "message": "将链接保存为 TXT"
+   },
+   "popup_select_all": {
+      "message": "全选"
+   },
+   "popup_show_filter": {
+      "message": " 显示或隐藏筛选器 "
+   },
+   "popup_show_more": {
+      "message": "显示超过"
+   },
+   "popup_show_previews": {
+      "message": "预览图片"
+   },
+   "popup_show_title": {
+      "message": "显示:"
+   },
+   "popup_tab_detected": {
+      "message": "检测"
+   },
+   "popup_tab_name_docs": {
+      "message": "文档/档案/杂项"
+   },
+   "popup_tab_name_images": {
+      "message": "图像"
+   },
+   "popup_tab_name_links": {
+      "message": "链接"
+   },
+   "popup_tab_name_settings": {
+      "message": "设置"
+   },
+   "popup_tab_name_video": {
+      "message": "视频/音频"
+   },
+   "popup_tab_not_detected": {
+      "message": "未检测到"
+   }
+}
